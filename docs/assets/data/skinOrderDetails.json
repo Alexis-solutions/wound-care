@@ -1,0 +1,849 @@
+{
+    "skinOrderDetails" : [
+        {
+            "patientId": "M000749316",
+            "insurance": "Medicare",
+            "skinSubType" : "Theraskin",
+            "date": "11/30/2022",
+            "quantity": 116
+        },
+        {
+            "patientId": "M000754097",
+            "insurance": "Medicare",
+            "skinSubType" : "Theraskin",
+            "date": "11/23/2022",
+            "quantity": 39
+        },
+        {
+            "patientId": "M000715622",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Affinity",
+            "date": "12/12/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000715622",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Affinity",
+            "date": "12/5/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000715622",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Affinity",
+            "date": "11/28/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000715622",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Affinity",
+            "date": "11/21/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000715622",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Affinity",
+            "date": "11/14/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000715622",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Affinity",
+            "date": "11/7/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000715622",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Affinity",
+            "date": "10/24/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000715622",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Affinity",
+            "date": "10/17/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000716896",
+            "insurance": "AARP Medicare Advantage",
+            "skinSubType" : "Affinity",
+            "date": "10/17/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000716896",
+            "insurance": "AARP Medicare Advantage",
+            "skinSubType" : "Affinity",
+            "date": "10/10/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000716896",
+            "insurance": "AARP Medicare Advantage",
+            "skinSubType" : "Affinity",
+            "date": "10/03/2022",
+            "quantity": 7
+        },
+         {
+            "patientId": "M0006783",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "10/06/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000646992",
+            "insurance": "Medicare",
+            "skinSubType" : "Affinity",
+            "date": "10/13/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000646992",
+            "insurance": "Medicare",
+            "skinSubType" : "Affinity",
+            "date": "10/06/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000701675",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "11/07/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000701675",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "10/24/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000701675",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "10/17/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000701675",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "10/10/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000701675",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "10/03/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000721479",
+            "insurance": "AARP Medicare Advantage",
+            "skinSubType" : "Affinity",
+            "date": "12/06/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000721479",
+            "insurance": "AARP Medicare Advantage",
+            "skinSubType" : "Affinity",
+            "date": "11/22/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000721479",
+            "insurance": "AARP Medicare Advantage",
+            "skinSubType" : "Affinity",
+            "date": "11/15/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000721479",
+            "insurance": "AARP Medicare Advantage",
+            "skinSubType" : "Affinity",
+            "date": "11/18/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000721479",
+            "insurance": "AARP Medicare Advantage",
+            "skinSubType" : "Affinity",
+            "date": "11/01/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000721479",
+            "insurance": "AARP Medicare Advantage",
+            "skinSubType" : "Affinity",
+            "date": "10/25/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000721479",
+            "insurance": "AARP Medicare Advantage",
+            "skinSubType" : "Affinity",
+            "date": "10/18/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000721479",
+            "insurance": "AARP Medicare Advantage",
+            "skinSubType" : "Affinity",
+            "date": "10/11/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000721479",
+            "insurance": "AARP Medicare Advantage",
+            "skinSubType" : "Affinity",
+            "date": "10/04/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000748186",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "12/12/2022",
+            "quantity": 7
+        },
+         {
+            "patientId": "M000748186",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "12/01/2022",
+            "quantity": 7
+        }, 
+        {
+            "patientId": "M000748186",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "11/16/2022",
+            "quantity": 7
+        },
+         {
+            "patientId": "M000748186",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "11/07/2022",
+            "quantity": 7
+        },
+         {
+            "patientId": "M000748186",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "10/31/2022",
+            "quantity": 7
+        },
+         {
+            "patientId": "M000748186",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "10/24/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000663058",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Affinity",
+            "date": "10/12/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000663058",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Affinity",
+            "date": "10/05/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000402865",
+            "insurance": "Medicare",
+            "skinSubType" : "Affinity",
+            "date": "10/10/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000402865",
+            "insurance": "Medicare",
+            "skinSubType" : "Affinity",
+            "date": "10/03/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M0006792496",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "11/23/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M0006792496",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "11/16/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M0006792496",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "11/09/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M0006792496",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "11/02/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M0006792496",
+            "insurance": "BlueCross BlueShield of South",
+            "skinSubType" : "Affinity",
+            "date": "10/26/2022",
+            "quantity": 7
+        },
+        {
+            "patientId": "M000750438",
+            "insurance": "Medicare",
+            "skinSubType" : "Revita",
+            "date": "12/29/2022",
+            "quantity": 80
+        },
+        {
+            "patientId": "M000469258",
+            "insurance": "Medicare",
+            "skinSubType" : "Novachor",
+            "date": "12/19/2022",
+            "quantity": 9
+        },
+        {
+            "patientId": "M000469258",
+            "insurance": "Medicare",
+            "skinSubType" : "Novachor",
+            "date": "12/13/2022",
+            "quantity": 9
+        },
+        {
+            "patientId": "M000699452",
+            "insurance": "Medicare",
+            "skinSubType" : "Novachor",
+            "date": "10/18/2022",
+            "quantity": 5
+        },
+        {
+            "patientId": "M000699452",
+            "insurance": "Medicare",
+            "skinSubType" : "Novachor",
+            "date": "10/13/2022",
+            "quantity": 5
+        },
+        {
+            "patientId": "M000699452",
+            "insurance": "Medicare",
+            "skinSubType" : "Novachor",
+            "date": "10/06/2022",
+            "quantity": 5
+        },
+        {
+            "patientId": "M000699452",
+            "insurance": "Medicare",
+            "skinSubType" : "Novachor",
+            "date": "11/16/2022",
+            "quantity": 5
+        },
+        {
+            "patientId": "M000699452",
+            "insurance": "Medicare",
+            "skinSubType" : "Novachor",
+            "date": "11/09/2022",
+            "quantity": 5
+        },
+        {
+            "patientId": "M000699452",
+            "insurance": "Medicare",
+            "skinSubType" : "Novachor",
+            "date": "11/02/2022",
+            "quantity": 5
+        },
+        {
+            "patientId": "M000699452",
+            "insurance": "Medicare",
+            "skinSubType" : "Novachor",
+            "date": "10/26/2022",
+            "quantity": 5
+        },
+        {
+            "patientId": "M000699452",
+            "insurance": "Medicare",
+            "skinSubType" : "Novachor",
+            "date": "10/19/2022",
+            "quantity": 5
+        },
+        {
+            "patientId": "M000699452",
+            "insurance": "Medicare",
+            "skinSubType" : "Novachor",
+            "date": "10/12/2022",
+            "quantity": 10
+        },
+        {
+            "patientId": "M000699452",
+            "insurance": "Medicare",
+            "skinSubType" : "Novachor",
+            "date": "10/05/2022",
+            "quantity": 13
+        },
+        {
+            "patientId": "M000750807",
+            "insurance": "Medicare",
+            "skinSubType" : "Novachor",
+            "date": "1/02/2022",
+            "quantity": 5
+        },
+         {
+            "patientId": "M0000001",
+            "insurance": "Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "11/09/2022",
+            "quantity": 128
+        },
+        {
+            "patientId": "M0000001",
+            "insurance": "Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "11/07/2022",
+            "quantity": 128
+        },
+        {
+            "patientId": "M0000001",
+            "insurance": "Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "11/02/2022",
+            "quantity": 123
+        },
+        {
+            "patientId": "M0000001",
+            "insurance": "Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "10/31/2022",
+            "quantity": 128
+        },
+        {
+            "patientId": "M0000001",
+            "insurance": "Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "10/27/2022",
+            "quantity": 99
+        },
+        {
+            "patientId": "M0000001",
+            "insurance": "Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "10/25/2022",
+            "quantity": 128
+        },
+        {
+            "patientId": "M000658134",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "12/28/2022",
+            "quantity": 15
+        },
+        {
+            "patientId": "M000658134",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "12/14/2022",
+            "quantity": 19
+        },
+        {
+            "patientId": "M000658134",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "11/30/2022",
+            "quantity": 19
+        },
+        {
+            "patientId": "M000658134",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "11/23/2022",
+            "quantity": 19
+        },
+        {
+            "patientId": "M000658134",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "11/16/2022",
+            "quantity": 19
+        },
+        {
+            "patientId": "M000658134",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "11/09/2022",
+            "quantity": 19
+        },
+        {
+            "patientId": "M000658134",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "11/02/2022",
+            "quantity": 29
+        },
+        {
+            "patientId": "M000658134",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "10/26/2022",
+            "quantity": 25
+        },
+        {
+            "patientId": "M000658134",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "10/19/2022",
+            "quantity": 24
+        },
+        {
+            "patientId": "M000658134",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "10/12/2022",
+            "quantity": 19
+        },
+        {
+            "patientId": "M000658134",
+            "insurance": "United Healthcare Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "10/05/2022",
+            "quantity": 30
+        },
+         {
+            "patientId": "M000734136",
+            "insurance": "AARP Medicare Complete",
+            "skinSubType" : "Puraply AM",
+            "date": "10/24/2027",
+            "quantity": 10
+        },
+        {
+            "patientId": "M000734136",
+            "insurance": "AARP Medicare Complete",
+            "skinSubType" : "Puraply AM",
+            "date": "10/17/2022",
+            "quantity": 15
+        },
+        {
+            "patientId": "M000734136",
+            "insurance": "AARP Medicare Complete",
+            "skinSubType" : "Puraply AM",
+            "date": "10/10/2022",
+            "quantity": 15
+        },
+        {
+            "patientId": "M000734136",
+            "insurance": "AARP Medicare Complete",
+            "skinSubType" : "Puraply AM",
+            "date": "10/03/2022",
+            "quantity": 30
+        },
+         {
+            "patientId": "M000749316",
+            "insurance": "Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "12/29/2022",
+            "quantity": 114
+        },
+        {
+            "patientId": "M000749316",
+            "insurance": "Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "12/14/2022",
+            "quantity": 128
+        },
+        {
+            "patientId": "M000749316",
+            "insurance": "Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "12/07/2022",
+            "quantity": 128
+        },
+        {
+            "patientId": "M000422341",
+            "insurance": "Medicare",
+            "skinSubType" : "PuraPly XT",
+            "date": "12/19/2022",
+            "quantity": 25
+        },
+        {
+            "patientId": "M000422341",
+            "insurance": "Medicare",
+            "skinSubType" : "PuraPly XT",
+            "date": "12/12/2022",
+            "quantity": 25
+        },
+        {
+            "patientId": "M000755551",
+            "insurance": "Medicare",
+            "skinSubType" : "PuraPly XT",
+            "date": "11/03/2022",
+            "quantity": 5
+        },
+        {
+            "patientId": "M000755551",
+            "insurance": "Medicare",
+            "skinSubType" : "PuraPly XT",
+            "date": "10/27/2022",
+            "quantity": 20
+        },
+        {
+            "patientId": "M000755551",
+            "insurance": "Medicare",
+            "skinSubType" : "PuraPly XT",
+            "date": "10/20/2022",
+            "quantity": 20
+        },
+        {
+            "patientId": "M000754097",
+            "insurance": "Medicare",
+            "skinSubType" : "PuraPly XT",
+            "date": "0/26/2022",
+            "quantity": 5
+        },
+        {
+            "patientId": "M000642726",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/24/2022",
+            "quantity": 2
+        },
+        {
+            "patientId": "M000642726",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/17/2022",
+            "quantity": 4
+        },
+        {
+            "patientId": "M000642726",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/10/2022",
+            "quantity": 16
+        },
+        {
+            "patientId": "M000642726",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/03/2022",
+            "quantity": 16
+        },
+        {
+            "patientId": "M000733813",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "12/28/2022",
+            "quantity": 2
+        },
+        {
+            "patientId": "M000733813",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "12/19/2022",
+            "quantity": 2
+        },
+        {
+            "patientId": "M000733813",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "12/12/2022",
+            "quantity": 2
+        },
+        {
+            "patientId": "M000733999",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/6/2022",
+            "quantity": 16
+        },
+         {
+            "patientId": "M000742593",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/31/2022",
+            "quantity": 24
+        },
+        {
+            "patientId": "M000742593",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/24/2022",
+            "quantity": 4
+        },
+        {
+            "patientId": "M000593843",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/04/2022",
+            "quantity": 2
+        },
+        {
+            "patientId": "M000746754",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "11/14/2022",
+            "quantity": 2
+        },
+        {
+            "patientId": "M000746754",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "1/07/2022",
+            "quantity": 4
+        },
+        {
+            "patientId": "M000746754",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/31/2022",
+            "quantity": 4
+        },
+        {
+            "patientId": "M000746754",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/27/2022",
+            "quantity": 16
+        },
+        {
+            "patientId": "M000746754",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/24/2022",
+            "quantity": 16
+        },
+        {
+            "patientId": "M000746754",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/17/2022",
+            "quantity": 16
+        },
+        {
+            "patientId": "M000746754",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/11/2022",
+            "quantity": 16
+        },
+        {
+            "patientId": "M000746754",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/04/2022",
+            "quantity": 16
+        },
+        {
+            "patientId": "M000760126",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/27/2022",
+            "quantity": 2
+        },
+        {
+            "patientId": "M000632595",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "11/17/2022",
+            "quantity": 2
+        },
+        {
+            "patientId": "M000632595",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "11/10/2022",
+            "quantity": 4
+        },
+        {
+            "patientId": "M000632595",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "11/03/2022",
+            "quantity": 4
+        },
+        {
+            "patientId": "M000632595",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/27/2022",
+            "quantity": 4
+        },
+        {
+            "patientId": "M000632595",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/03/2022",
+            "quantity": 2
+        },
+
+
+       
+       
+        {
+            "patientId": "M000729401",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "11/09/2022",
+            "quantity": 5
+        },
+        {
+            "patientId": "M000729401",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "11/02/2022",
+            "quantity": 2
+        },
+        {
+            "patientId": "M000729401",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/26/2022",
+            "quantity": 10
+        },
+        {
+            "patientId": "M000729401",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/19/2022",
+            "quantity": 16
+        },
+        {
+            "patientId": "M000729401",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/12/2022",
+            "quantity": 20
+        },
+        {
+            "patientId": "M000729401",
+            "insurance": "Medicare",
+            "skinSubType" : "Innova Matrix",
+            "date": "10/05/2022",
+            "quantity": 25
+        }
+                   
+    ]
+}
