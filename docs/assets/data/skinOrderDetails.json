@@ -425,7 +425,7 @@
             "insurance": "Medicare",
             "skinSubType" : "Puraply AM",
             "date": "11/07/2022",
-            "quantity": 128
+            "quantity": 131
         },
         {
             "patientId": "M0000001",
@@ -534,33 +534,48 @@
         },
          {
             "patientId": "M000734136",
-            "insurance": "AARP Medicare Complete",
+            "insurance": "Medicare",
             "skinSubType" : "Puraply AM",
-            "date": "10/24/2027",
-            "quantity": 10
+            "date": "11/09/2022",
+            "quantity": 128
         },
         {
             "patientId": "M000734136",
-            "insurance": "AARP Medicare Complete",
+            "insurance": "Medicare",
             "skinSubType" : "Puraply AM",
-            "date": "10/17/2022",
-            "quantity": 15
+            "date": "11/07/2022",
+            "quantity": 500
         },
         {
             "patientId": "M000734136",
-            "insurance": "AARP Medicare Complete",
+            "insurance": "Medicare",
             "skinSubType" : "Puraply AM",
-            "date": "10/10/2022",
-            "quantity": 15
+            "date": "11/02/2022",
+            "quantity": 123
         },
         {
             "patientId": "M000734136",
-            "insurance": "AARP Medicare Complete",
+            "insurance": "Medicare",
             "skinSubType" : "Puraply AM",
-            "date": "10/03/2022",
-            "quantity": 30
+            "date": "10/31/2022",
+            "quantity": 128
         },
-         {
+        {
+            "patientId": "M000734136",
+            "insurance": "Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "10/27/2022",
+            "quantity": 99
+        },
+        {
+            "patientId": "M000734136",
+            "insurance": "Medicare",
+            "skinSubType" : "Puraply AM",
+            "date": "10/25/2022",
+            "quantity": 128
+        },
+
+        {
             "patientId": "M000749316",
             "insurance": "Medicare",
             "skinSubType" : "Puraply AM",
