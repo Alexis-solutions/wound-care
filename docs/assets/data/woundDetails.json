@@ -3,6 +3,13 @@
         {
             "woundType": "Arterial Ulcer",
             "patientId": "M000690195",
+            "numOfWounds": 5,
+            "date":"5/23/2022",
+            "skinSubType":"Innova Matrix"
+        },
+        {
+            "woundType": "Arterial Ulcer",
+            "patientId": "M000690195",
             "numOfWounds": 1,
             "date":"5/23/2022",
             "skinSubType":"Theraskin"
@@ -12,7 +19,7 @@
             "patientId": "M000690195",
             "numOfWounds": 11,
             "date":"6/06/2022",
-            "skinSubType":"Theraskin"
+            "skinSubType":"Standard"
         },
         {
             "woundType": "Arterial Ulcer",
@@ -42,13 +49,7 @@
             "date":"5/23/2022",
             "skinSubType":"Affinity"
         },
-        {
-            "woundType": "Arterial Ulcer",
-            "patientId": "M000690195",
-            "numOfWounds": 5,
-            "date":"5/23/2022",
-            "skinSubType":"Affinity"
-        },
+       
         {
             "woundType": "Diabetic Ulcer",
             "patientId": "M000733813",
@@ -61,14 +62,14 @@
             "patientId": "M000742593",
             "numOfWounds": 4,
             "date":"9/11/2022",
-            "skinSubType":"Revita"
+            "skinSubType":"Innova Matrix"
         },
         {
             "woundType": "Diabetic Ulcer",
             "patientId": "M000732427",
             "numOfWounds": 1,
             "date":"8/25/2022",
-            "skinSubType":"Revita"
+            "skinSubType":"Standard"
         },
         {
             "woundType": "Diabetic Ulcer",
@@ -289,7 +290,7 @@
             "patientId": "M000633540",
             "numOfWounds": 11,
             "date":"5/23/2022",
-            "skinSubType":""
+            "skinSubType":"Standard"
         },
         {
             "woundType": "Pressure Ulcer",
@@ -457,14 +458,14 @@
             "patientId": "M000699867",
             "numOfWounds": 6,
             "date":"10/18/2022",
-            "skinSubType":""
+            "skinSubType":"Standard"
         },
         {
             "woundType": "Surgical Wound",
             "patientId": "M000474005",
             "numOfWounds": 12,
             "date":"10/20/2022",
-            "skinSubType":""
+            "skinSubType":"Innova Matrix"
         },
         {
             "woundType": "Surgical Wound",
@@ -707,7 +708,7 @@
             "patientId": "M000715622",
             "numOfWounds": 3,
             "date":"10/24/2022",
-            "skinSubType":""
+            "skinSubType":"Standard"
         },
         {
             "woundType": "Trauma Wound",
